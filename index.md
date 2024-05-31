@@ -3,5 +3,11 @@
 
 (![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png))
 
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+   ```python
+   # This function adds two numbers
+   def add(a, b):
+       return a + b
+
+   result = add(2, 3)
+   print(result)

@@ -3,11 +3,16 @@
 
 (![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png))
 
+ ```python
+   def greet(name):
+       return f"Hello, {name}!"
 
-   ```python
-   # This function adds two numbers
-   def add(a, b):
-       return a + b
+   print(greet("World"))
 
-   result = add(2, 3)
-   print(result)
+
+
+## Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
